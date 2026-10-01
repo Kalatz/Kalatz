@@ -1,13 +1,13 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hello there 🧔🏻‍♂️👋🦾</h2>
 
 <p align="center">
   Software engineer with a background in mathematics, working on <b>machine learning</b>,
   <b>computer vision</b> and <b>LLM-powered applications</b>.
 </p>
 
-<p align="center">
+<p align="left"><sub>
   <a href="https://www.linkedin.com/in/evangelos-kalaitzis-a8458b253/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-</p>
+<sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalatz/Kalatz/output/jojo-dark.svg">
