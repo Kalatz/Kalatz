@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 🧔🏻‍♂️👋🦾</h2>
+<h2 align="center">Hello there 🧔🏻‍♂️👋🦾</h2>
 
 <p align="center">
   Software engineer with a background in mathematics, working on <b>machine learning</b>,
