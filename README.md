@@ -50,6 +50,7 @@
   <br>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
@@ -60,6 +61,7 @@
 
 | Project | What it does |
 | --- | --- |
+| [UOKey](https://github.com/Kalatz/UOKey) | Use Only Keyboard: a Firefox add-on for clicking links, buttons and fields without a mouse<br><a href="https://addons.mozilla.org/firefox/addon/uokey/"><img src="https://img.shields.io/badge/Try%20my%20add--on-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Try my add-on"></a> |
 | [Recyclable Garbage Classification](https://github.com/Kalatz/Recyclable-Garbage-Classification) | Multimodal (RGB, depth and audio) recyclable material classification, with dataset, annotation and prediction tools |
 | [de_dust2 Pathfinding](https://github.com/Kalatz/de_dust2-pathfinding) | Grid maps, probabilistic roadmaps and pathfinding algorithms on the CS:GO map de_dust2 |
 | [Exercise Recognition](https://github.com/Kalatz/exercise_recognition) | Comparing machine learning models for recognising physical exercises |
