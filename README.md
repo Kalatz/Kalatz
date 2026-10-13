@@ -62,10 +62,10 @@
 | Project | What it does |
 | --- | --- |
 | [UOKey](https://github.com/Kalatz/UOKey) | Use Only Keyboard: a Firefox add-on for clicking links, buttons and fields without a mouse<br><a href="https://addons.mozilla.org/firefox/addon/uokey/"><img src="https://img.shields.io/badge/Try%20my%20add--on-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Try my add-on"></a> |
-| [Recyclable Garbage Classification](https://github.com/Kalatz/Recyclable-Garbage-Classification) | Multimodal (RGB, depth and audio) recyclable material classification, with dataset, annotation and prediction tools |
+| [Recyclable Garbage Classification](https://github.com/Kalatz/recyclable-garbage-classification) | Multimodal (RGB, depth and audio) recyclable material classification, with dataset, annotation and prediction tools |
 | [de_dust2 Pathfinding](https://github.com/Kalatz/de_dust2-pathfinding) | Grid maps, probabilistic roadmaps and pathfinding algorithms on the CS:GO map de_dust2 |
-| [Exercise Recognition](https://github.com/Kalatz/exercise_recognition) | Comparing machine learning models for recognising physical exercises |
-| [S&P 500 and COVID-19](https://github.com/Kalatz/Sp500_timeseries_covid) | Time-series analysis of the top 20 S&P 500 companies before and after COVID-19: autocorrelation, causality and regression |
+| [Exercise Recognition](https://github.com/Kalatz/exercise-recognition) | Comparing machine learning models for recognising physical exercises |
+| [S&P 500 and COVID-19](https://github.com/Kalatz/sp500-timeseries-covid) | Time-series analysis of the top 20 S&P 500 companies before and after COVID-19: autocorrelation, causality and regression |
 
 ### 🎓 Background
 
