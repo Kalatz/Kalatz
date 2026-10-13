@@ -23,9 +23,9 @@
 
 ### 🔭 What I work on
 
-- **Multimodal recycling recognition:** a smart recycling bin that tells materials apart with an RGB-D camera and a microphone, CNNs and a real-time prediction and logging pipeline.
+- **Multimodal recycling recognition:** a smart recycling bin that tells materials apart with an RGB-D camera and a microphone, CNNs and a real-time prediction and logging pipeline, plus the data-collection station used to record its dataset.
 - **LLM applications:** natural language features built with LangChain and LangGraph, prompt engineering, and datasets for testing and evaluating models.
-- **Edge devices:** Raspberry Pi projects, from data-collection stations to a kiosk with live flight tracking, weather and a clock.
+- **Edge devices:** expanding my work on Raspberry Pi projects, starting from the kiosk I have already built, which shows live flight tracking, weather and a clock.
 
 ### 📄 Publication
 
